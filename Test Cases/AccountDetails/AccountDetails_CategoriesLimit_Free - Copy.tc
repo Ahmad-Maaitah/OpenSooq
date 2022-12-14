@@ -4,5 +4,9 @@
    <name>AccountDetails_CategoriesLimit_Free - Copy</name>
    <tag></tag>
    <comment></comment>
+<<<<<<< HEAD
    <testCaseGuid>da08a643-3df2-4169-9cce-5cb3d654899f</testCaseGuid>
+=======
+   <testCaseGuid>d057b5bc-f27e-4d00-b7e1-f81b49faf85f</testCaseGuid>
+>>>>>>> branch 'master' of https://github.com/Ahmad-Maaitah/OpenSooq.git
 </TestCaseEntity>

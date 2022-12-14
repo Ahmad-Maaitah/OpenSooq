@@ -24,7 +24,7 @@ WebUI.callTestCase(findTestCase('Login Page/Valid login Jordna Country'), [:], F
 
 Mobile.tap(findTestObject('Real Estate for Sale/Search by category'), 30)
 
-Mobile.setText(findTestObject('Object Repository/Electronics/Send exampel by name'), 'موضة نسائيه', 30)
+Mobile.setText(findTestObject('Object Repository/Electronics/Send exampel by name'), 'موضه نسائيه', 30)
 
 Mobile.tap(findTestObject('Womens Fashion/Womens Fashion'), 30)
 
